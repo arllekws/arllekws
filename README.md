@@ -1,7 +1,7 @@
 ### Oláaa! Me chamo Arllesson Gomes
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently studying ADS at Cesar SCHOOL
 - 🌱 I’m currently learning Python, JavaScript & Arduino
 - 😄 Pronouns: He/Him
 
