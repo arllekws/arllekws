@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E80D&random=false&width=435&lines=Ol%C3%A1aa!+Me+chamo+Arllesson+Gomes)](https://git.io/typing-svg)
+##
 - 🔭 I’m currently studying ADS at Cesar SCHOOL
 - 🌱 I’m currently learning Python, JavaScript & Arduino
 - 😄 Pronouns: He/Him
