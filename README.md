@@ -7,7 +7,6 @@
 
 ![arllekws's GitHub stats](https://github-readme-stats.vercel.app/api?username=arllekws&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arllekws&layout=donut-vertical&theme=dark)](https://github.com/arllekws/github-readme-stats)
-
 ##
 
 <div style="display: inline_block"><br>
@@ -26,7 +25,6 @@
   <a href="https://instagram.com/arlless0n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:arllessonsilvaaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arllesson-gomes-435a232ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-   <a href="https://app.slack.com/client/T94NN49B5" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
   
 </div>
